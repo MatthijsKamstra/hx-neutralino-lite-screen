@@ -1,0 +1,15 @@
+{
+  "appname": "hx-neutralino",
+  "appport": "5006",
+  "mode": "window",
+  "window": {
+    "title": "Matthijs Kamstra aka [mck] - Creative Coding",
+    "width": "1000",
+    "height": "700",
+    "iconfile": "neutralino.png",
+    "fullscreen": false,
+    "alwaysontop": false,
+    "enableinspector": true,
+    "borderlesswindow": true
+  }
+}
